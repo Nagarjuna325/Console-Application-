@@ -66,7 +66,7 @@ Please note that this project is a basic demonstration of a student management s
 
 Feel free to explore and enhance the system for more advanced use cases and data persistence requirements.
 
-## Acknowledgments
+<!-- ## Acknowledgments
 
 This project was created as a learning exercise and serves as a starting point for building more comprehensive student management systems. We hope you find it useful and informative!
 
@@ -79,4 +79,4 @@ Have a great day!
 You can use this README.md file in your GitHub repository to provide clear instructions and information about your Student Management System project.
 ```
 
-
+ -->
